@@ -76,6 +76,7 @@ def ApagarProdutos():
     while True:
         #ler um produto
         linha=ficheiro_ler.readline()
+        print(linha)
         if not linha:
             break
         #verificar se é o produto a editar

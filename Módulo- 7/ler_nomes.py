@@ -17,4 +17,4 @@ else:
             #verificar se encontrou o fim do ficheiro (EDF)
             if not linha:
                 break
-            print(linha,end="")
+            print(linha,end="") 
